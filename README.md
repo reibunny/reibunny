@@ -15,15 +15,15 @@
 
 ## About me
 
-- 🔭 I’m currently working on [BunnieBot](https://github.com/reibunny/BunnieBot)
+🔭 I’m currently working on [BunnieBot](https://github.com/reibunny/BunnieBot)
 
-- 🌱 I’m currently learning **Java, Spring Boot, Algorithmics**
+🌱 I’m currently learning **Java, Spring Boot, Algorithmics**
 
-- 💬 Ask me about **My availabilities for a job interview**
+💬 Ask me about **My availabilities for a job interview**
 
-- 📫 Contact me **alyson.rezaire.pro@outlook.com**
+📫 Contact me **alyson.rezaire.pro@outlook.com**
 
-- 💖 I'm obsessed with **Bunnies, Cats, Programming, Gaming, Making things perfect**
+💖 I'm obsessed with **Bunnies, Cats, Programming, Gaming, Making things perfect**
 
 #
 
@@ -43,21 +43,30 @@
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge">
   <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoftoffice&logoColor=fff&style=flat-square" alt="Microsoft Office Badge">
   <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat-square" alt="Windows Badge">
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat-square" alt="Linux Badge">
   
-</details> 
-
+  
+</details>
+<details>
+  <summary><h3>:computer: &nbsp;Currently learning</h3></summary>
+  
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat-square" alt="Linux Badge">
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=fff&style=flat-square" alt="Arch Linux Badge">
+  <img src="https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=flat-square" alt="C Sharp Badge">
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=flat-square" alt=".NET Badge">
+  
+  
+</details>
 <!--
 **reibunny/reibunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+🔭 I’m currently working on ...
+🌱 I’m currently learning ...
+👯 I’m looking to collaborate on ...
+🤔 I’m looking for help with ...
+💬 Ask me about ...
+📫 How to reach me: ...
+😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
