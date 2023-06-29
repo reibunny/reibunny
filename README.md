@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Alyson Rezaire</h1>
 <h3 align="center">A passionate Computer Engineering Student @ [Efrei](https://www.efrei.fr)</h3>
 
-<p align="center">
+
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square)](https://linkedin.com/in/alyson-rezaire)
 [![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=fff&style=flat-square)](https://www.twitch.tv/reibunnie)
 [![](https://img.shields.io/badge/Resume-FF597B)](https://drive.google.com/file/d/1OQ6NCaBa-fMap1Tgsmy91mxEGAeCryO8/view?usp=sharing)
-</p>
 
 
 - 🔭 I’m currently working on [BunnieBot](https://github.com/reibunny/BunnieBot)
