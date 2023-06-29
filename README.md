@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alyson Rezaire</h1>
-<h3 align="center">A passionate Computer Engineering Student @ ![Efrei](https://www.efrei.fr)</h3>
+<h3 align="center">A passionate Computer Engineering Student @ <a href="https://www.efrei.fr">Efrei</a></h3>
 
 #
 
