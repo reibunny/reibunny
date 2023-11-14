@@ -48,9 +48,7 @@
 </details>
 <details>
   <summary><h3>🧠 &nbsp;Currently learning</h3></summary>
-  
-  <img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent?style=flat-square&label=Java">
-  
+
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat-square" alt="Linux Badge">
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=fff&style=flat-square" alt="Arch Linux Badge">
   <img src="https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=flat-square" alt="C Sharp Badge">
