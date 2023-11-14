@@ -15,9 +15,9 @@
 
 ## About me
 
-🔭 I’m currently working on [BunnieBot](https://github.com/reibunny/BunnieBot)
+🔭 I’m currently working on [Bunney](https://github.com/reibunny/Bunney) 🤑
 
-🌱 I’m currently learning **Java, Spring Boot, Algorithmics**
+🌱 I’m currently learning **Designing Fundamentals, Frontend Development Basics, Advanced Backend Development**
 
 💬 Ask me about **My availabilities for a job interview**
 
@@ -61,9 +61,12 @@
 <br>
 <p align="center">Thanks for reading 🖤</p>
 <br>
+
 <!--
 **reibunny/reibunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+<!--
 Here are some ideas to get you started:
 
 🔭 I’m currently working on ...
