@@ -15,7 +15,7 @@
 
 ## About me
 
-🔭 I’m currently working on [Bunney](https://github.com/reibunny/Bunney) 🤑
+🔭 I’m currently working on [Reibot](https://github.com/reibunny/Reibot) 🤑
 
 🌱 I’m currently learning **Designing Fundamentals, Frontend Development Basics, Advanced Backend Development**
 
@@ -23,7 +23,7 @@
 
 📫 Contact me **alyson.rezaire.pro@outlook.com**
 
-💖 I'm obsessed with **Bunnies, Cats, Programming, Gaming, Making things perfect**
+💖 I'm obsessed with **Bunnies, Cats, Programming, Gaming, Getting close to perfection**
 
 #
 
