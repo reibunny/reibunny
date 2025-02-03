@@ -15,7 +15,7 @@
 
 ## About me
 
-🔭 I’m currently working on [Reibot](https://github.com/reibunny/Reibot) 🤑
+🔭 I’m currently working on [EthereiBot](https://github.com/reibunny/ethereibot) 🎮🤖
 
 🌱 I’m currently learning **Designing Fundamentals, Frontend Development Basics, Advanced Backend Development**
 
