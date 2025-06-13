@@ -15,13 +15,13 @@
 
 ## About me
 
-🔭 I’m currently working on [EthereiBot](https://github.com/reibunny/ethereibot) 🎮🤖
+🔭 I’m currently working on [Etherealm](https://github.com/reibunny/etherealm) 🎮🤖
 
 🌱 I’m currently learning **Designing Fundamentals, Frontend Development Basics, Advanced Backend Development**
 
 💬 Ask me about **My availabilities for a job interview**
 
-📫 Contact me **alyson.rezaire.pro@outlook.com**
+📫 Contact me **alysonrezaire@gmail.com**
 
 💖 I'm obsessed with **Bunnies, Cats, Programming, Gaming, Getting close to perfection**
 
