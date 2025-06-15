@@ -8,8 +8,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/alyson-rezaire"><img height="30" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square"></img></a>
-  <a href="https://www.twitch.tv/reibunnie"><img height="30" src="https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=fff&style=flat-square"></img></a>
-  <a href="https://www.instagram.com/etherei___/"><img height="30" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=flat-square"></img></a>
   <a href="https://drive.google.com/file/d/1X0kgf64A1NrhuGcPkquqEnNqdRw8hInh/view?usp=drive_link"><img height="30" src="https://img.shields.io/badge/Resume-FF597B?style=flat-square"></img></a>
 </p>
 
