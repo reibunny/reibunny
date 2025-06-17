@@ -13,11 +13,11 @@
 
 ## About me
 
-🔭 I’m currently working on [Etherealm](https://github.com/reibunny/etherealm) 🎮🤖
+🔭 I’m currently working on [Habit Rabbit](https://github.com/reibunny/habbit-rabbit) 🎮📃⚡
 
 🌱 I’m currently learning **Designing Fundamentals, Frontend Development Basics, Advanced Backend Development**
 
-💬 Ask me about **My availabilities for a job interview**
+💬 Ask me about **My availabilities for an apprenticeship interview**
 
 📫 Contact me **alysonrezaire@gmail.com**
 
