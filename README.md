@@ -13,7 +13,7 @@
 
 ## About me
 
-🔭 I’m currently working on [Habit Rabbit](https://github.com/reibunny/habbit-rabbit) 🎮📃⚡
+🔭 I’m currently working on [Habit Rabbit](https://github.com/reibunny/habit-rabbit) 🎮📃⚡
 
 🌱 I’m currently learning **Designing Fundamentals, Frontend Development Basics, Advanced Backend Development**
 
