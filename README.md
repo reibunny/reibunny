@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Alyson Rézaire</h1>
-<h3 align="center">A passionate Computer Engineering Student @ <a target="_blank" href="https://iut.u-pec.fr/" >IUT de Créteil-Vitry</a></h3>
+<h3 align="center">A passionate Computer Engineering Student @ <a rel="noopener noreferrer" href="https://iut.u-pec.fr/" >IUT de Créteil-Vitry</a></h3>
 
 #
 
 <img src="https://github.com/reibunny/reibunny/blob/main/assets/me.jpg" width="100%"></img>
 
 <p align="center">
-  <a href="https://linkedin.com/in/alyson-rezaire"><img height="30" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square"></img></a>
-  <a target="_blank" href="https://drive.google.com/file/d/1Q0mOhSkthPE0rMfz0IUAPrmLbd99_Cmg/view?usp=sharing"><img height="30" src="https://img.shields.io/badge/Resume-FF597B?style=flat-square"></img></a>
+  <a rel="noopener noreferrer" href="https://linkedin.com/in/alyson-rezaire"><img height="30" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square"></img></a>
+  <a rel="noopener noreferrer" href="https://drive.google.com/file/d/1Q0mOhSkthPE0rMfz0IUAPrmLbd99_Cmg/view?usp=sharing"><img height="30" src="https://img.shields.io/badge/Resume-FF597B?style=flat-square"></img></a>
 </p>
 
 ## About me
