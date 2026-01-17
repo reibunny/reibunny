@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alyson Rézaire</h1>
-<h3 align="center">A passionate Computer Engineering Student @ <a target="_blank" rel="noopener noreferrer" href="https://iut.u-pec.fr/" >IUT de Créteil-Vitry</a></h3>
+<h3 align="center">A passionate Junior Developer, looking for exciting opportunities !</h3>
 
 #
 
@@ -12,11 +12,11 @@
 
 ## About me
 
-🔭 I’m currently working on [Habit Rabbit](https://github.com/reibunny/habit-rabbit) 🎮📃⚡
+🔭 I’m currently working on [Music Discord RPC](https://github.com/reibunny/AppleMusic-Discord-RPC) 👀🎵👾
 
-🌱 I’m currently learning **Designing Fundamentals, Frontend Development Basics, Advanced Backend Development**
+🌱 I’m currently learning **Advanced Python Development, Designing Fundamentals, Frontend Development Basics**
 
-💬 Ask me about **My availabilities for an apprenticeship interview**
+💬 Ask me about **My availabilities for an interview**
 
 📫 Contact me **alysonrezaire@gmail.com**
 
