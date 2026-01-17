@@ -7,7 +7,7 @@
 
 <p align="center">
   <a target="_blank" rel="noopener noreferrer" href="https://linkedin.com/in/alyson-rezaire"><img height="30" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square"></img></a>
-  <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1Q0mOhSkthPE0rMfz0IUAPrmLbd99_Cmg/view?usp=sharing"><img height="30" src="https://img.shields.io/badge/Resume-FF597B?style=flat-square"></img></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1-_rRDVj5Pg9AiA24qrRkOGHLeCmvN7DS/view?usp=sharing"><img height="30" src="https://img.shields.io/badge/Resume-FF597B?style=flat-square"></img></a>
 </p>
 
 ## About me
