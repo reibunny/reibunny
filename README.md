@@ -12,7 +12,7 @@
 
 ## About me
 
-🔭 I’m currently working on [Music Discord RPC](https://github.com/reibunny/AppleMusic-Discord-RPC) 👀🎵👾
+🔭 I’m currently working on [Music Discord RPC](https://github.com/reibunny/discord-rpc-music) 👀🎵👾
 
 🌱 I’m currently learning **Advanced Python Development, Designing Fundamentals, Frontend Development Basics**
 
