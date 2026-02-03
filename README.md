@@ -1,16 +1,17 @@
-<h1 align="center">Hi 👋, I'm Alyson Rézaire</h1>
-<h3 align="center">A passionate Junior Developer, looking for exciting opportunities !</h3>
+<h1>Hey there 🙋‍♀️</h1>
 
-#
+<p>Welcome to my profile !</p>
 
-<img src="https://github.com/reibunny/reibunny/blob/main/assets/me.jpg" width="100%"></img>
+<p>I'm Alyson Rézaire, a Junior Software Developer seeking exciting opportunities.</p>
 
-<p align="center">
+<p>
   <a target="_blank" rel="noopener noreferrer" href="https://linkedin.com/in/alyson-rezaire"><img height="30" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square"></img></a>
   <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1-_rRDVj5Pg9AiA24qrRkOGHLeCmvN7DS/view?usp=sharing"><img height="30" src="https://img.shields.io/badge/Resume-FF597B?style=flat-square"></img></a>
 </p>
 
-## About me
+#
+
+<h3>About me</h3>
 
 🔭 I’m currently working on [Music Discord RPC](https://github.com/reibunny/discord-rpc-music) 👀🎵👾
 
@@ -20,7 +21,7 @@
 
 📫 Contact me **alysonrezaire@gmail.com**
 
-💖 I'm obsessed with **Bunnies, Cats, Programming, Gaming, Getting close to perfection**
+💖 My hobbies are **Playing Volleyball, Programming, Drawing and Gaming !**
 
 #
 
